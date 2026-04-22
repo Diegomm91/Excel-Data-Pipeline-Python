@@ -1,16 +1,6 @@
-# Entornos virtuales
 .venv/
 env/
-
-# Archivos de salida de datos (Excel)
-datos_completados.xlsx
-Prueba Excel- Data & Analytics Assistant*.xlsx
-
-
-# Archivos de caché de Python
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Variables de entorno 
+*.pyc
 .env
+~$*.xlsx
