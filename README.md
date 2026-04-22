@@ -3,7 +3,7 @@
 Este proyecto es un pipeline de datos completo que automatiza la limpieza de activos inmobiliarios y visualiza indicadores clave. 
 
 ## 🚀 Demo En Vivo
-Podés interactuar con el dashboard aquí: **[PEGÁ ACÁ TU LINK DE HUGGING FACE]**
+Podés interactuar con el dashboard aquí: (https://huggingface.co/spaces/diegomm8991/data-analytics-dashboard)
 
 ## 🛠️ Tecnologías Utilizadas
 * **Python (Pandas):** Limpieza y normalización de datos con RegEx.
