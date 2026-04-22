@@ -63,3 +63,12 @@ Frecuencia de Riesgos: Análisis de la composición de la cartera.
 📈 Dashboard Final (Power BI)
 
 El archivo datos_completados.xlsx generado sirve como fuente de verdad para el dashboard interactivo, permitiendo filtrar por ubicación y visualizar los valores ajustados en tiempo real.
+
+## 📊 Análisis Visual
+A continuación, se presentan los gráficos generados automáticamente por el pipeline de Python:
+
+### Distribución de Prorrateo por Ubicación
+![Gráfico de Prorrateo](distribucion_suma_valores.png)
+
+### Composición de la Cartera de Riesgos
+![Gráfico de Torta](distribucion_porcentual.png)
